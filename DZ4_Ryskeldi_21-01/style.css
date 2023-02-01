@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    
+}
